@@ -21,9 +21,9 @@
 2. **Navigate to the project directory and install npm independecies.**
 
 ### Configuration
-1. **Create dev.env and test.env files in the config directory.**
+1. **Create .env file in the config directory.**
    
-2. **Add the following environment variables in the dev.env file:**
+2. **Add the following environment variables in the .env file:**
    ```bash
    PORT=3000
    MONGODB_URL=mongodb: your-mongodb-url
@@ -40,11 +40,4 @@
 #### For production:
    ```bash
    npm start
-   ```
-
-### Running Tests
-
-#### Execute tests using Jest:
-   ```bash
-   npm test
    ```
