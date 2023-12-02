@@ -37,14 +37,14 @@
    ```bash
    npm run dev
    ```
-#### For productions:
+#### For production:
    ```bash
    npm start
    ```
 
 ### Running Tests
 
-#### Execute tests using jest:
+#### Execute tests using Jest:
    ```bash
    npm test
    ```
